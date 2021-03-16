@@ -1,5 +1,4 @@
 <?php
-
 if ( site_url() == "http://hello.local" ) {
 	define( "VERSION", time() );
 } else {
